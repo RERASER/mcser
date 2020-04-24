@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "df83819e-3699-359d-9dee-184d894faf70",
+    "name": "newan",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "84e09d00-7b63-3b6d-aa39-99f5f945ed81",
+    "name": "eraser",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "43f9df04-3255-35e6-ac14-3667c3300135",
+    "name": "duli",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ecc8c980-412e-452e-8163-d6217a60268e",
+    "name": "Earser",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
