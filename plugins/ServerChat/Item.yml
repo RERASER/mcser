@@ -1,0 +1,8 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2230
+  type: SUNFLOWER
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §a§l大喇叭
